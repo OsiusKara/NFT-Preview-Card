@@ -18,12 +18,13 @@
   box-sizing: border-box;
 }
 
+
 body {
   font-family: "Outfit", sans-serif;
 }
 
 .container {
-    margin: 400px auto;
+      margin: 50px auto;
       background-color: hsl(217, 54%, 11%);
       width:375px;
       height:auto;
@@ -179,7 +180,7 @@ body {
         }
     
         
-    @media only screen and (min-width:1440px){
+    @media only screen and (min-width:1200px){
 
         body {
             background-color: hsl(217, 54%, 11%);
